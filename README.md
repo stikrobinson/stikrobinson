@@ -1,24 +1,41 @@
 # Mi sitio personal
 
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
+## Steve Robinson
 
-## Contenido
+### Contenido
 
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
+* [Habilidades](#habilidades)
+* [Educación](#educación)
+* [Contacto](#contacto)
 
-## Información personal
+### Información personal
 
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Steve William Robinson Feraud.
+* Ocupación: Estudiante de Ingeniería en Computación.
+* Fecha de nacimiento: 3 de agosto de 2004.
+* Lugar de residencia: Guayaquil, Ecuador.
 
-## Proyectos
+### Proyectos
 
 * [Lista de tus proyectos]
 
-## Intereses
+### Intereses
 
 * [Lista de tus intereses]
+
+### Tecnologías
+
+* [Lista de tus habilidades técnicas y personales]
+
+### Educación
+
+* [Tu nivel educativo, instituciones y fechas]
+
+### Contacto
+
+* Correo electrónico: [Tu correo electrónico]
+* LinkedIn: [Tu perfil de LinkedIn]
+* GitHub: [Tu perfil de GitHub]
