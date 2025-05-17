@@ -1,41 +1,32 @@
-# Mi sitio personal
+<h1 style="text-align:center">Soy Steve Robinson</h1>
+<p style="text-align:center; font-weight:bold; font-size:17">Estudiante de Ciencias de Computación</p>
 
-## Steve Robinson
+## Contenido
 
-### Contenido
+- [Sobre mí](#sobre-mí)
+- [Proyectos](#proyectos)
+- [Habilidades](#habilidades)
+- [Contacto](#contacto)
 
-* [Información personal](#información-personal)
-* [Proyectos](#proyectos)
-* [Intereses](#intereses)
-* [Habilidades](#habilidades)
-* [Educación](#educación)
-* [Contacto](#contacto)
+## Sobre mí
 
-### Información personal
+Estoy estudiando Ingeniería de Computación en la Escuela Superior Politécnica del Litoral. Apasionado por la tecnología, principalmente la inteligencia artificial, siempre busco oportunidades para aprender y crecer tanto personal como profesionalmente. Soy una persona comprometida y responsable, que siempre doy lo mejor de mi en todas las cosas que hago.
 
-* Nombre: Steve William Robinson Feraud.
-* Ocupación: Estudiante de Ingeniería en Computación.
-* Fecha de nacimiento: 3 de agosto de 2004.
-* Lugar de residencia: Guayaquil, Ecuador.
+## Proyectos
 
-### Proyectos
+<table>
+<tr> <th>Proyecto</th> <th>Descripción</th> <th>Colaboradores</th> <th>Link</th> <tr>
+<tr> <td>Administrador de Ferias</td> <td>Programa de escritorio con interfaz gráfica que se encarga de la administración de stands dentro de una feria.</td> <td>Colaboradores</td> <td>Link</td> <tr>
+<tr><td>Proyecto</td><td>Descripción</td><td>Colaboradores</td><td>Link</td><tr>
+<tr><td>Proyecto</td><td>Descripción</td><td>Colaboradores</td><td>Link</td><tr>
+</table>
 
-* [Lista de tus proyectos]
+## Tecnologías
 
-### Intereses
+- [Lista de tus habilidades técnicas y personales]
 
-* [Lista de tus intereses]
+## Contacto
 
-### Tecnologías
-
-* [Lista de tus habilidades técnicas y personales]
-
-### Educación
-
-* [Tu nivel educativo, instituciones y fechas]
-
-### Contacto
-
-* Correo electrónico: [Tu correo electrónico]
-* LinkedIn: [Tu perfil de LinkedIn]
-* GitHub: [Tu perfil de GitHub]
+- Correo electrónico: [Tu correo electrónico]
+- LinkedIn: [Tu perfil de LinkedIn]
+- GitHub: [Tu perfil de GitHub]
