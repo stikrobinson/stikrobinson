@@ -19,11 +19,11 @@ Estoy estudiando Ingeniería de Computación en la Escuela Superior Politécnica
 
 ## Proyectos
 
-| Proyecto    | Descripción | Colaboradores | Link |
+| Proyecto    | Descripción | Colaboradores | Imagen |
 | -------- | ------- | -------- | ------- |
-| Administrador de Ferias  |  Programa de escritorio con interfaz gráfica que se encarga de la administración de stands dentro de una feria.   | Colaboradores  | Link    |
-| Proyecto | Descripción     | Colaboradores | Link    |
-| Proyecto | Descripción     | Colaboradores | Link    |
+| [Administrador de Ferias](https://github.com/stikrobinson/POO-P3-G10)  |  Programa de escritorio con interfaz gráfica que se encarga de la administración de stands dentro de una feria.   | [Jefferson Saltos](https://github.com/rsaltos04) [Carlos Ronquillo](https://github.com/carrbrus)   | ![Menú Principal del Administrador de Ferias](AdministradorFerias.png)   |
+| [Sistema para Comercialización de Vehículos](https://github.com/stikrobinson/Proyecto_Grupo_12) | Programa de escritorio con interfaz gráfica que se encarga de gestionar la venta y compra de vehículos entre usuarios.    | [Alex Otero](https://github.com/alexoterol) [Sebastián Manzanilla](https://github.com/ManzanillaSebastian) |     |
+| [Juego de 20 preguntas](https://github.com/stikrobinson/Proyecto_Grupo_12) | Programa de escritorio con interfaz gráfica que adivina el animal que piensa el usuario con base a preguntas hechas por el programa.     | [Alex Otero](https://github.com/alexoterol) [Sebastián Manzanilla](https://github.com/ManzanillaSebastian) |     |
 
 ## Tecnologías
 
