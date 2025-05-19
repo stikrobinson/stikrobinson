@@ -1,6 +1,8 @@
 <h1 style="text-align:center">Soy Steve Robinson</h1>
 <p style="text-align:center; font-weight:bold; font-size:17">Estudiante de Ciencias de Computación</p>
 
+<div style="display: flex; justify-content:center"><img src="saludo.gif" height="200" width="300"></div>
+
 ## Contenido
 
 - [Sobre mí](#sobre-mí)
