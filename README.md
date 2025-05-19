@@ -1,7 +1,7 @@
 <h1 style="text-align:center">Soy Steve Robinson</h1>
 <p style="text-align:center; font-weight:bold; font-size:17">Estudiante de Ciencias de Computación</p>
 
-<div style="display: flex; justify-content:center"><img src="saludo.gif" height="200" width="300"></div>
+<div align="center"><img src="saludo.gif" height="200" width="300"></div>
 
 ## 📑 Contenido
 
@@ -28,7 +28,9 @@ Soy un estudiante apasionado por la tecnología, que siempre busca oportunidades
 | -------- | ------- | -------- | -------- |
 |   Programa de escritorio con interfaz gráfica que se encarga de la administración de stands dentro de una feria.   |   - Java<br> - JavaFX<br> - Git<br> - Github  | - [Jefferson Saltos](https://github.com/rsaltos04)<br> - [Carlos Ronquillo](https://github.com/carrbrus)  |[🔗 Ingresa al repositorio](https://github.com/stikrobinson/POO-P3-G10) |
 
-![Menú principal del administrador de ferias](AdministradorFerias.png)
+<div align="center">
+  <img src="AdministradorFerias.png" width="400">
+</div>
 
 ### Sistema para Comercialización de Vehículos
 
@@ -36,7 +38,9 @@ Soy un estudiante apasionado por la tecnología, que siempre busca oportunidades
 | -------- | ------- | -------- | -------- |
 | Programa de escritorio con interfaz gráfica que se encarga de gestionar la venta y compra de vehículos entre usuarios. | - Java<br> - JavaFX<br> - Git<br> - Github | - [Alex Otero](https://github.com/alexoterol)<br> - [Sebastián Manzanilla](https://github.com/ManzanillaSebastian) | [🔗 Ingresa al repositorio](https://github.com/stikrobinson/Proyecto_Grupo_12) |
 
-![Menú principal del sistema de comercialización](sistema_comercializacion.png)
+<div align="center">
+  <img src="sistema_comercializacion.png" width="400">
+</div>
 
 ### Juego de 20 preguntas
 
@@ -44,7 +48,9 @@ Soy un estudiante apasionado por la tecnología, que siempre busca oportunidades
 | -------- | ------- | -------- | -------- |
 | Programa de escritorio con interfaz gráfica que adivina el animal que piensa el usuario con base a preguntas hechas por el programa. | - Java<br> - JavaFX<br> - Git<br> - Github | - [Alex Otero](https://github.com/alexoterol)<br> - [Sebastián Manzanilla](https://github.com/ManzanillaSebastian) |[🔗 Ingresa al repositorio](https://github.com/stikrobinson/Proyecto_Grupo_12) |
 
-![Menú principal del juego de 20 preguntas](20_preguntas.png)
+<div align="center">
+  <img src="20_preguntas.png" width="400">
+</div>
 
 ### Bot de Discord
 
@@ -52,7 +58,9 @@ Soy un estudiante apasionado por la tecnología, que siempre busca oportunidades
 | -------- | ------- | -------- | -------- |
 | Bot que funciona en discord con comandos para proveer diversión un servidor. | - Python<br> - Numpy<br> | Ninguno. |[🔗 Ingresa al repositorio](https://github.com/stikrobinson/DiscordBot) |
 
-![Captura del bot funcional en un servidor](usoBot.png)
+<div align="center">
+  <img src="usoBot.png" width="400">
+</div>
 
 ## 🛠️ Tecnologías
 
