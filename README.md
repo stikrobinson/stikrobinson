@@ -20,6 +20,7 @@ Estoy estudiando Ingeniería de Computación en la Escuela Superior Politécnica
 ## Proyectos
 
 ### Administrador de Ferias
+
 | Descripción | Tecnologías Utilizadas | Colaboradores |
 | -------- | ------- | -------- | 
 |   Programa de escritorio con interfaz gráfica que se encarga de la administración de stands dentro de una feria.   |   Python  | [Jefferson Saltos](https://github.com/rsaltos04) [Carlos Ronquillo](https://github.com/carrbrus)  | 
@@ -29,6 +30,7 @@ Estoy estudiando Ingeniería de Computación en la Escuela Superior Politécnica
 <button onclick="window.location.href='https://github.com/stikrobinson/POO-P3-G10'"> Ingresa al repositorio </button>
 
 ### Sistema para Comercialización de Vehículos
+
 | Descripción | Tecnologías Utilizadas | Colaboradores |
 | -------- | ------- | -------- | 
 | Programa de escritorio con interfaz gráfica que se encarga de gestionar la venta y compra de vehículos entre usuarios. | Python | [Alex Otero](https://github.com/alexoterol) [Sebastián Manzanilla](https://github.com/ManzanillaSebastian) |
@@ -36,6 +38,7 @@ Estoy estudiando Ingeniería de Computación en la Escuela Superior Politécnica
 <button onclick="window.location.href='https://github.com/stikrobinson/Proyecto_Grupo_12'">Ingresa al repositorio</button>
 
 ### Juego de 20 preguntas
+
 | Descripción | Tecnologías Utilizadas | Colaboradores |
 | -------- | ------- | -------- | 
 | Programa de escritorio con interfaz gráfica que adivina el animal que piensa el usuario con base a preguntas hechas por el programa. | Python | [Alex Otero](https://github.com/alexoterol) [Sebastián Manzanilla](https://github.com/ManzanillaSebastian) |
