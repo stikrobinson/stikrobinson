@@ -19,11 +19,28 @@ Estoy estudiando Ingeniería de Computación en la Escuela Superior Politécnica
 
 ## Proyectos
 
-| Proyecto    | Descripción | Colaboradores | Imagen |
-| -------- | ------- | -------- | ------- |
-| [Administrador de Ferias](https://github.com/stikrobinson/POO-P3-G10)  |  Programa de escritorio con interfaz gráfica que se encarga de la administración de stands dentro de una feria.   | [Jefferson Saltos](https://github.com/rsaltos04) [Carlos Ronquillo](https://github.com/carrbrus)   | ![Menú Principal del Administrador de Ferias](AdministradorFerias.png)   |
-| [Sistema para Comercialización de Vehículos](https://github.com/stikrobinson/Proyecto_Grupo_12) | Programa de escritorio con interfaz gráfica que se encarga de gestionar la venta y compra de vehículos entre usuarios.    | [Alex Otero](https://github.com/alexoterol) [Sebastián Manzanilla](https://github.com/ManzanillaSebastian) |     |
-| [Juego de 20 preguntas](https://github.com/stikrobinson/Proyecto_Grupo_12) | Programa de escritorio con interfaz gráfica que adivina el animal que piensa el usuario con base a preguntas hechas por el programa.     | [Alex Otero](https://github.com/alexoterol) [Sebastián Manzanilla](https://github.com/ManzanillaSebastian) |     |
+### Administrador de Ferias
+| Descripción | Tecnologías Utilizadas | Colaboradores |
+| -------- | ------- | -------- | 
+|   Programa de escritorio con interfaz gráfica que se encarga de la administración de stands dentro de una feria.   |   Python  | [Jefferson Saltos](https://github.com/rsaltos04) [Carlos Ronquillo](https://github.com/carrbrus) 
+
+<img src="AdministradorFerias.png" alt="Menú principal del administrador de ferias" width="200" height="200" />
+
+<button onclick="window.location.href='https://github.com/stikrobinson/POO-P3-G10'"> Ingresa al repositorio </button>
+
+### Sistema para Comercialización de Vehículos
+| Descripción | Tecnologías Utilizadas | Colaboradores |
+| -------- | ------- | -------- | 
+| Programa de escritorio con interfaz gráfica que se encarga de gestionar la venta y compra de vehículos entre usuarios. | Python | [Alex Otero](https://github.com/alexoterol) [Sebastián Manzanilla](https://github.com/ManzanillaSebastian) |
+
+<button onclick="window.location.href='https://github.com/stikrobinson/Proyecto_Grupo_12'">Ingresa al repositorio</button>
+
+### Juego de 20 preguntas
+| Descripción | Tecnologías Utilizadas | Colaboradores |
+| -------- | ------- | -------- | 
+| Programa de escritorio con interfaz gráfica que adivina el animal que piensa el usuario con base a preguntas hechas por el programa. | Python | [Alex Otero](https://github.com/alexoterol) [Sebastián Manzanilla](https://github.com/ManzanillaSebastian) |
+
+<button onclick="window.location.href='https://github.com/stikrobinson/Proyecto_Grupo_12'">Ingresa al repositorio</button>
 
 ## Tecnologías
 
