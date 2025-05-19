@@ -5,10 +5,10 @@
 
 ## 📑 Contenido
 
-- [👨‍💻 Sobre mí](#👨‍💻-sobre-mí)
-- [🚀 Proyectos](#🚀-proyectos)
-- [🛠️ Tecnologías](#🛠️-tecnologías)
-- [📬 Contacto](#📬-contacto)
+- [👨‍💻 Sobre mí](#-sobre-mí)
+- [🚀 Proyectos](#-proyectos)
+- [🛠️ Tecnologías](#-tecnologías)
+- [📬 Contacto](#-contacto)
 
 ## 👨‍💻 Sobre mí
 
@@ -68,6 +68,6 @@ Soy un estudiante apasionado por la tecnología, que siempre busca oportunidades
 
 ## 📬 Contacto
 
-- Correo electrónico: srobinso@espol.edu.ec
-- LinkedIn: [Steve Robinson Feraud](https://ec.linkedin.com/in/steve-robinson-feraud-33ab59174)
-- GitHub: [stikrobinson](https://github.com/stikrobinson)
+- **Correo electrónico:** srobinso@espol.edu.ec
+- **LinkedIn:** [Steve Robinson Feraud](https://ec.linkedin.com/in/steve-robinson-feraud-33ab59174)
+- **GitHub:** [stikrobinson](https://github.com/stikrobinson)
