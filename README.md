@@ -22,7 +22,7 @@ Estoy estudiando Ingeniería de Computación en la Escuela Superior Politécnica
 ### Administrador de Ferias
 | Descripción | Tecnologías Utilizadas | Colaboradores |
 | -------- | ------- | -------- | 
-|   Programa de escritorio con interfaz gráfica que se encarga de la administración de stands dentro de una feria.   |   Python  | [Jefferson Saltos](https://github.com/rsaltos04) [Carlos Ronquillo](https://github.com/carrbrus) 
+|   Programa de escritorio con interfaz gráfica que se encarga de la administración de stands dentro de una feria.   |   Python  | [Jefferson Saltos](https://github.com/rsaltos04) [Carlos Ronquillo](https://github.com/carrbrus)  | 
 
 <img src="AdministradorFerias.png" alt="Menú principal del administrador de ferias" width="200" height="200" />
 
