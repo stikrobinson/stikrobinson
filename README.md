@@ -56,7 +56,7 @@ Soy un estudiante apasionado por la tecnología, que siempre busca oportunidades
 
 | Descripción | Tecnologías Utilizadas | Colaboradores | Enlace |
 | -------- | ------- | -------- | -------- |
-| Bot que funciona en discord con comandos para proveer diversión un servidor. | - Python<br> - Numpy<br> | Ninguno. |[🔗 Ingresa al repositorio](https://github.com/stikrobinson/DiscordBot) |
+| Bot que funciona en discord con comandos que proveen entretenimiento a los miembros de un servidor mediante quizzes y juegos. | - Python<br> - Numpy<br> | Ninguno. |[🔗 Ingresa al repositorio](https://github.com/stikrobinson/DiscordBot) |
 
 <div align="center">
   <img src="usoBot.png" width="400">
