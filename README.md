@@ -26,7 +26,7 @@ Soy un estudiante apasionado por la tecnología, que siempre busca oportunidades
 
 | Descripción | Tecnologías Utilizadas | Colaboradores | Enlace |
 | -------- | ------- | -------- | -------- |
-|   Programa de escritorio con interfaz gráfica que se encarga de la administración de stands dentro de una feria.   |   Python  | - [Jefferson Saltos](https://github.com/rsaltos04)<br> - [Carlos Ronquillo](https://github.com/carrbrus)  |[🔗 Ingresa al repositorio](https://github.com/stikrobinson/POO-P3-G10) |
+|   Programa de escritorio con interfaz gráfica que se encarga de la administración de stands dentro de una feria.   |   - Java<br> - JavaFX<br> - Git<br> - Github  | - [Jefferson Saltos](https://github.com/rsaltos04)<br> - [Carlos Ronquillo](https://github.com/carrbrus)  |[🔗 Ingresa al repositorio](https://github.com/stikrobinson/POO-P3-G10) |
 
 ![Menú principal del administrador de ferias](AdministradorFerias.png)
 
@@ -34,7 +34,7 @@ Soy un estudiante apasionado por la tecnología, que siempre busca oportunidades
 
 | Descripción | Tecnologías Utilizadas | Colaboradores | Enlace | 
 | -------- | ------- | -------- | -------- |
-| Programa de escritorio con interfaz gráfica que se encarga de gestionar la venta y compra de vehículos entre usuarios. | Python | - [Alex Otero](https://github.com/alexoterol)<br> - [Sebastián Manzanilla](https://github.com/ManzanillaSebastian) | [🔗 Ingresa al repositorio](https://github.com/stikrobinson/Proyecto_Grupo_12) |
+| Programa de escritorio con interfaz gráfica que se encarga de gestionar la venta y compra de vehículos entre usuarios. | - Java<br> - JavaFX<br> - Git<br> - Github | - [Alex Otero](https://github.com/alexoterol)<br> - [Sebastián Manzanilla](https://github.com/ManzanillaSebastian) | [🔗 Ingresa al repositorio](https://github.com/stikrobinson/Proyecto_Grupo_12) |
 
 ![Menú principal del sistema de comercialización](sistema_comercializacion.png)
 
@@ -42,7 +42,7 @@ Soy un estudiante apasionado por la tecnología, que siempre busca oportunidades
 
 | Descripción | Tecnologías Utilizadas | Colaboradores | Enlace |
 | -------- | ------- | -------- | -------- |
-| Programa de escritorio con interfaz gráfica que adivina el animal que piensa el usuario con base a preguntas hechas por el programa. | Python | - [Alex Otero](https://github.com/alexoterol)<br> - [Sebastián Manzanilla](https://github.com/ManzanillaSebastian) |[🔗 Ingresa al repositorio](https://github.com/stikrobinson/Proyecto_Grupo_12) |
+| Programa de escritorio con interfaz gráfica que adivina el animal que piensa el usuario con base a preguntas hechas por el programa. | - Java<br> - JavaFX<br> - Git<br> - Github | - [Alex Otero](https://github.com/alexoterol)<br> - [Sebastián Manzanilla](https://github.com/ManzanillaSebastian) |[🔗 Ingresa al repositorio](https://github.com/stikrobinson/Proyecto_Grupo_12) |
 
 ![Menú principal del juego de 20 preguntas](20_preguntas.png)
 
@@ -50,7 +50,7 @@ Soy un estudiante apasionado por la tecnología, que siempre busca oportunidades
 
 | Descripción | Tecnologías Utilizadas | Colaboradores | Enlace |
 | -------- | ------- | -------- | -------- |
-| Bot que funciona en discord con comandos para proveer diversión un servidor. | Python. | Ninguno. |[🔗 Ingresa al repositorio](https://github.com/stikrobinson/DiscordBot) |
+| Bot que funciona en discord con comandos para proveer diversión un servidor. | - Python<br> - Numpy<br> | Ninguno. |[🔗 Ingresa al repositorio](https://github.com/stikrobinson/DiscordBot) |
 
 ![Captura del bot funcional en un servidor](usoBot.png)
 
@@ -58,12 +58,12 @@ Soy un estudiante apasionado por la tecnología, que siempre busca oportunidades
 
 | Tecnología | Descripción | Uso en Proyectos |
 | -------- | ------- | -------- | 
-| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | Sistema de control de versiones distribuido. | |
-| ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Plataforma para alojar y colaborar en proyectos de software. | |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Lenguaje de programación multipropósito y fácil de aprender. | |
-| ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | Librería para computación científica y manejo de arreglos en Python. | |
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | Lenguaje de programación orientado a objetos y multiplataforma. | |
-| ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) | Librería para crear interfaces gráficas en Java. | |
+| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | Sistema de control de versiones distribuido. | Control de versiones en los proyectos. |
+| ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Plataforma para alojar y colaborar en proyectos de software. | Repositorios y colaboración en los proyectos. |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Lenguaje de programación multipropósito y fácil de aprender. | Desarrollo del Bot de Discord. |
+| ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | Librería para computación científica y manejo de arreglos en Python. | Funcionalidades del Bot de Discord. |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | Lenguaje de programación orientado a objetos y multiplataforma. | Desarrollo de aplicaciones de escritorio (Administrador de Ferias, Sistema de Comercialización de Vehículos, Juego de 20 preguntas). |
+| ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) | Librería para crear interfaces gráficas en Java. | Interfaces gráficas en los proyectos de escritorio en Java. |
 
 
 ## 📬 Contacto
