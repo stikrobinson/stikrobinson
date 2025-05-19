@@ -3,23 +3,24 @@
 
 <div style="display: flex; justify-content:center"><img src="saludo.gif" height="200" width="300"></div>
 
-## Contenido
+## 📑 Contenido
 
 - [Sobre mí](#sobre-mí)
 - [Proyectos](#proyectos)
 - [Tecnologías](#tecnologías)
 - [Contacto](#contacto)
 
-## Sobre mí
+## 👨‍💻 Sobre mí
 
-Estoy estudiando Ingeniería de Computación en la Escuela Superior Politécnica del Litoral. Apasionado por la tecnología, principalmente la inteligencia artificial, siempre busco oportunidades para aprender y crecer tanto personal como profesionalmente. Soy una persona comprometida y responsable, que siempre doy lo mejor de mi en todas las cosas que hago.
+Soy un estudiante apasionado por la tecnología, que siempre busca oportunidades para aprender y crecer tanto personal como profesionalmente. Soy una persona comprometida y responsable, que siempre doy lo mejor de mi en todas las cosas que hago.
 
--
--
--
--
+- **Carrera:** Ingenería en Ciencias de la Computación.
+- **Universidad:** Escuela Superior Politécnica del Litoral.
+- **Lugar de residencia:** Guayaquil, Ecuador.
+- **Intereses académicos:** Inteligencia artificial y desarrollo de aplicaciones web.
+- **Hobbies e intereses personales:** Jugar videojuegos y leer textos de no ficción.
 
-## Proyectos
+## 🚀 Proyectos
 
 ### Administrador de Ferias
 
@@ -53,12 +54,12 @@ Estoy estudiando Ingeniería de Computación en la Escuela Superior Politécnica
 
 ![Captura del bot funcional en un servidor](usoBot.png)
 
-## Tecnologías
+## 🛠️ Tecnologías
 
 - 
 
-## Contacto
+## 📬 Contacto
 
-- Correo electrónico: [Tu correo electrónico]
-- LinkedIn: [Tu perfil de LinkedIn]
-- GitHub: [Tu perfil de GitHub]
+- Correo electrónico: srobinso@espol.edu.ec
+- LinkedIn: [Steve Robinson Feraud](https://ec.linkedin.com/in/steve-robinson-feraud-33ab59174)
+- GitHub: [stikrobinson](https://github.com/stikrobinson)
