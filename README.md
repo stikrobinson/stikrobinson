@@ -7,7 +7,7 @@
 
 - [👨‍💻 Sobre mí](#-sobre-mí)
 - [🚀 Proyectos](#-proyectos)
-- [🛠️ Tecnologías](#-tecnologías)
+- [🛠️ Tecnologías](#-tecnolog%C3%ADas)
 - [📬 Contacto](#-contacto)
 
 ## 👨‍💻 Sobre mí
