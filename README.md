@@ -5,10 +5,10 @@
 
 ## 📑 Contenido
 
-- [Sobre mí](#sobre-mí)
-- [Proyectos](#proyectos)
-- [Tecnologías](#tecnologías)
-- [Contacto](#contacto)
+- [👨‍💻 Sobre mí](#👨‍💻-sobre-mí)
+- [🚀 Proyectos](#🚀-proyectos)
+- [🛠️ Tecnologías](#🛠️-tecnologías)
+- [📬 Contacto](#📬-contacto)
 
 ## 👨‍💻 Sobre mí
 
@@ -26,7 +26,7 @@ Soy un estudiante apasionado por la tecnología, que siempre busca oportunidades
 
 | Descripción | Tecnologías Utilizadas | Colaboradores | Enlace |
 | -------- | ------- | -------- | -------- |
-|   Programa de escritorio con interfaz gráfica que se encarga de la administración de stands dentro de una feria.   |   Python  | [Jefferson Saltos](https://github.com/rsaltos04) [Carlos Ronquillo](https://github.com/carrbrus)  |[🔗 Ingresa al repositorio](https://github.com/stikrobinson/POO-P3-G10) |
+|   Programa de escritorio con interfaz gráfica que se encarga de la administración de stands dentro de una feria.   |   Python  | - [Jefferson Saltos](https://github.com/rsaltos04)<br> - [Carlos Ronquillo](https://github.com/carrbrus)  |[🔗 Ingresa al repositorio](https://github.com/stikrobinson/POO-P3-G10) |
 
 ![Menú principal del administrador de ferias](AdministradorFerias.png)
 
@@ -34,7 +34,7 @@ Soy un estudiante apasionado por la tecnología, que siempre busca oportunidades
 
 | Descripción | Tecnologías Utilizadas | Colaboradores | Enlace | 
 | -------- | ------- | -------- | -------- |
-| Programa de escritorio con interfaz gráfica que se encarga de gestionar la venta y compra de vehículos entre usuarios. | Python | [Alex Otero](https://github.com/alexoterol) [Sebastián Manzanilla](https://github.com/ManzanillaSebastian) | [🔗 Ingresa al repositorio](https://github.com/stikrobinson/Proyecto_Grupo_12) |
+| Programa de escritorio con interfaz gráfica que se encarga de gestionar la venta y compra de vehículos entre usuarios. | Python | - [Alex Otero](https://github.com/alexoterol)<br> - [Sebastián Manzanilla](https://github.com/ManzanillaSebastian) | [🔗 Ingresa al repositorio](https://github.com/stikrobinson/Proyecto_Grupo_12) |
 
 ![Menú principal del sistema de comercialización](sistema_comercializacion.png)
 
@@ -42,7 +42,7 @@ Soy un estudiante apasionado por la tecnología, que siempre busca oportunidades
 
 | Descripción | Tecnologías Utilizadas | Colaboradores | Enlace |
 | -------- | ------- | -------- | -------- |
-| Programa de escritorio con interfaz gráfica que adivina el animal que piensa el usuario con base a preguntas hechas por el programa. | Python | [Alex Otero](https://github.com/alexoterol) [Sebastián Manzanilla](https://github.com/ManzanillaSebastian) |[🔗 Ingresa al repositorio](https://github.com/stikrobinson/Proyecto_Grupo_12) |
+| Programa de escritorio con interfaz gráfica que adivina el animal que piensa el usuario con base a preguntas hechas por el programa. | Python | - [Alex Otero](https://github.com/alexoterol)<br> - [Sebastián Manzanilla](https://github.com/ManzanillaSebastian) |[🔗 Ingresa al repositorio](https://github.com/stikrobinson/Proyecto_Grupo_12) |
 
 ![Menú principal del juego de 20 preguntas](20_preguntas.png)
 
@@ -56,7 +56,15 @@ Soy un estudiante apasionado por la tecnología, que siempre busca oportunidades
 
 ## 🛠️ Tecnologías
 
-- 
+| Tecnología | Descripción | Uso en Proyectos |
+| -------- | ------- | -------- | 
+| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | | |
+| ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | | |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | | |
+| ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | | |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | | |
+| ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) | | |
+
 
 ## 📬 Contacto
 
